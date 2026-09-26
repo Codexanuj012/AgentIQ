@@ -1272,3 +1272,11 @@ AI / Payments / Authentication
 
 This separation makes the application easier to develop, test, maintain,
 and extend.
+### 👨‍💻 Developed By
+
+**Anuj Kushawaha**
+CSE, **ABES Engineering College**
+**3rd Year Project** ❤️
+
+⭐ If you like this project, please **Star ⭐ the repository** and **Share it with others!**
+
